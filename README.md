@@ -38,7 +38,7 @@ Unleash the power of feedback with the E-Consult Feedback Analysis Dashboard! Th
 - Domain-specific sentiment trends
 - Sample comments with sentiment scores
 
-## Technology Stack
+## 🔗Technology Stack
 
 - **Platform**: Streamlit (Python web framework)
 - **Sentiment Analysis**: VADER (Valence Aware Dictionary and sEntiment Reasoner)
@@ -180,18 +180,13 @@ Install all dependencies:
 pip install streamlit pandas plotly wordcloud vaderSentiment matplotlib numpy
 ```
 
-## Contributing
+## Acknowledgments
+Special thanks to Dr. Victor Ikechukwu for his invaluable guidance and support throughout the development of this project. Explore their work: [Victor-Ikechukwu](https://github.com/Victor-Ikechukwu).
 
-Contributions are welcome! To contribute:
+---
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add sentiment trend analysis'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+## 📄 License
+This project is licensed under the *MIT License*. See [LICENSE](LICENSE) for details.
 
-## License
-
-This project is available for use across commercial, educational, and personal applications. See LICENSE file for details.
-
-**Transform feedback into action. Make data-driven decisions. Build better experiences.**
+---
+🔥 If you found this project helpful, please ⭐ it on GitHub!
